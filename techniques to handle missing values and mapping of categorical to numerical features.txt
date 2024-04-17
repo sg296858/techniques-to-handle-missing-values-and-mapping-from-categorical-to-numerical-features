@@ -1,0 +1,18 @@
+#Conversion of Categorical features into numerical features
+
+1.OneHotEncoding
+2.Label Encoding
+3.Ordinal Encoding
+4.Count or frequency Encoding
+5.Targeted Guide Ordinal Encoding
+6.Targeted Mean Encoding
+7.Probability ratio Encoding
+
+#Missing value techniques 
+
+1.Mean/Median Imputation
+2.Random Sample Imputation
+3.Capturing NaN to a new feature
+4.End of distribution Imputation
+5.Arbitrary imputation
+6. Frequent categories imputation
